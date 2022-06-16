@@ -1,5 +1,5 @@
 # NY-Restaurants
-Finding the best spots in the city
+Queries-Finding the best spots in the city
 
 #1. I'm starting by getting a feel for the 'nomnom' table
 SELECT *
